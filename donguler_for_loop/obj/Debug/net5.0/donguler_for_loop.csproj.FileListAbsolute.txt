@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\ref\donguler_for_loop.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\bin\Debug\net5.0\donguler_for_loop.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\ref\donguler_for_loop.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\donguler_for_loop\obj\Debug\net5.0\donguler_for_loop.genruntimeconfig.cache
