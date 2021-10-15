@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\ref\while_foreach.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\bin\Debug\net5.0\while_foreach.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\ref\while_foreach.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\while_foreach\obj\Debug\net5.0\while_foreach.genruntimeconfig.cache
