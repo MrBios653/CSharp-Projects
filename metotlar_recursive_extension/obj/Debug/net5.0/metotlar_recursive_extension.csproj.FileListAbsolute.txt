@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\ref\metotlar_recursive_extension.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\bin\Debug\net5.0\metotlar_recursive_extension.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\ref\metotlar_recursive_extension.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\metotlar_recursive_extension\obj\Debug\net5.0\metotlar_recursive_extension.genruntimeconfig.cache
