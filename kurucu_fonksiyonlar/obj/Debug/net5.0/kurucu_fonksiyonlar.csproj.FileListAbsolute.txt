@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\ref\kurucu_fonksiyonlar.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\ref\kurucu_fonksiyonlar.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.genruntimeconfig.cache
