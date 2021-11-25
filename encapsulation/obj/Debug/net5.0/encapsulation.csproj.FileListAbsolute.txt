@@ -1,0 +1,16 @@
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\ay493\OneDrive\Belgeler\patika-dev\C#\Pratikler\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
